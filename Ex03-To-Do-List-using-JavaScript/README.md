@@ -547,11 +547,9 @@ loadTasks();
 
 ## OUTPUT
 
-![alt text](<Screenshot 2026-10-31 160731.png>)
-
-![alt text](<Screenshot 2026-10-31 160906.png>)
-
-![alt text](<Screenshot 2026-10-31 160922.png>)
+<img width="1917" height="986" alt="Screenshot 2026-10-31 160731" src="https://github.com/user-attachments/assets/d12587a5-c1e4-4d13-81e5-a38a47332034" />
+<img width="1917" height="992" alt="Screenshot 2026-10-31 160906" src="https://github.com/user-attachments/assets/b2ddc626-c608-41a8-93f5-d5b87a17afae" />
+<img width="1917" height="973" alt="Screenshot 2026-10-31 160922" src="https://github.com/user-attachments/assets/a3658ee6-2303-4322-88a2-f45357677802" />
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
